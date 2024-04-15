@@ -28,7 +28,11 @@ You may check [my other projects](https://github.com/asevillasastre?tab=reposito
 
 -----------------------------------------------------------------------------
 
-![alt text](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/blob/main/images/UCM-LPM%20(4).png?raw=true)
-![alt text](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/blob/main/images/UCM-LPM%20(2).png?raw=true)
-![alt text](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/blob/main/images/UCM-LPM%20(3).png?raw=true)
-![alt text](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/blob/main/images/UCM-LPM%20(1).png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_22.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_71.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_5.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_53.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_31.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_11.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_70.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_8.png?raw=true)
