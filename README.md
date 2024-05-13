@@ -1,16 +1,26 @@
-# Linear Modeling Workshop: Location-Distribution and Hydrothermal Coordination Models
+# Generative random art with Python PIL
 
 ### Abstract
-Exercises solved during the subject taught by Begoña Vitoriano and María Teresa Ortuño in the 2021/2022 academic year.
-Reports of the work in pdf and the GAMS code are included.
+This repository contains interesting research on the aesthetic possibilities of generative art using the PIL fork of Python for image processing.
 
 ### Content
-- [Location and Distribution mMdels](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/tree/main/Niger-location-and-distribution-problem), using Multicriteria Techniques. Case Study: Niger.
-- [Hydrothermal Coordination Models](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/tree/main/hydroelectric-coordination-problem), using Stochastic Programming.
-- There is some [extra exercises](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/tree/main/other-exercises).
+- Every generative code is [here](https://github.com/asevillasastre/Generative-art/tree/main/src).
+- Images are plotted in some .ipynbs and also coollected in [that folder](https://github.com/asevillasastre/Generative-art/tree/main/images).
+
+### How to install?
+You should install [Pillow](https://pypi.org/project/pillow/)
+
+You can use the well-known:
+> python -m pip install -U [library]
+
+You can obtain pip [here](https://pypi.org/project/pip/).
+
+### Roadmap
+
+At the moment I'm just exploring the possibilities of generating random squares. To be continued.
 
 ### Author
-Antonio Sevilla Sastre, Daniel Campos Sánchez, Javier Nicolás García, Ángela Álvaro Álvaro; from Complutense University of Madrid.
+Antonio Sevilla Sastre
 
 -----------------------------------------------------------------------------
 
@@ -18,7 +28,11 @@ You may check [my other projects](https://github.com/asevillasastre?tab=reposito
 
 -----------------------------------------------------------------------------
 
-![alt text](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/blob/main/images/UCM-LPM%20(4).png?raw=true)
-![alt text](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/blob/main/images/UCM-LPM%20(2).png?raw=true)
-![alt text](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/blob/main/images/UCM-LPM%20(3).png?raw=true)
-![alt text](https://github.com/asevillasastre/UCM-Linear-Programming-Optimization-Models/blob/main/images/UCM-LPM%20(1).png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_22.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_71.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_5.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_53.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_31.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_11.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_70.png?raw=true)
+![alt text](https://github.com/asevillasastre/Generative-art/blob/main/images/output_8.png?raw=true)
