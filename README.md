@@ -5,7 +5,7 @@ This repository contains interesting research on the aesthetic possibilities of 
 
 ### Content
 - Every generative code is [here](https://github.com/asevillasastre/Generative-art/tree/main/src).
-- Images are plotted in some .ipynbs and also coollected in [that folder](https://github.com/asevillasastre/Generative-art/tree/main/images).
+- Images are plotted in some .ipynbs and they also collected in [that folder](https://github.com/asevillasastre/Generative-art/tree/main/images).
 
 ### How to install?
 You should install [Pillow](https://pypi.org/project/pillow/)
